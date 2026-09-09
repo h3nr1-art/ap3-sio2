@@ -1,1 +1,13 @@
+# Partie Réseau & VLANs
 
+## Switch
+
+### Initialization 
+
+1. Maintien de la broche clear pour reset le switch
+2. Branchement du cable console et réperer dans le répertoire /dev le port qui est apparu (souvent ttyusbX)
+3. Démarrage de putty, mettre en serial et mettre le port du cable console
+
+### Configuration
+
+1. 

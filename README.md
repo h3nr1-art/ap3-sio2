@@ -42,4 +42,17 @@
 ## Tableau de gestion de projet partagé
 ![](./img/trello.png)
 
+<<<<<<< HEAD
+=======
+## Partie Réseau
+
+### Installation du switch
+
+#### Initialization
+
+1. Branchement du switch
+2. Reset en maintenant le bouton clear
+3. Branchement avec le cable console sur le pc
+4. Comparer un ls de /dev avant et après le branchement et trouver un port comme ceci "ttyusbX"
+>>>>>>> 9d3d590 (Documentation technique)
 
