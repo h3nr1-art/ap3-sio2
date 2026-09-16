@@ -2,7 +2,7 @@
 
 ## Switch
 
-### Initialization 
+### Initialisation 
 
 1. Maintien de la broche clear pour reset le switch
 2. Branchement du cable console et réperer dans le répertoire /dev le port qui est apparu (souvent ttyusbX)
