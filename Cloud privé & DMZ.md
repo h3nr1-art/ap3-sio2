@@ -2,19 +2,6 @@ Installation de nextcloud :
 
 # Documentation Only Office Nextcloud
 # Only Office
-```bash
-nextcloud-onlyoffice	
-172.16.101.41
-root
-u6)W/8rR]//=Yu5+j4"?U*TDr7[f6{%q
-```
-acces admin a nextcloud:
-```
-admin
-ygdugeduig$^pmùç)
-```
-https://nextcloud.soluris.fr/login?direct=1
-
 
 ### Documentation utilisée
 
